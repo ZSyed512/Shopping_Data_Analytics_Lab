@@ -1,5 +1,6 @@
 # shopping-behavior
-Summary
+Summary:
+
 Within this project, we were tasked with analyzing the shopping behavior of american consumers. We analyzed a given sample dataset in order to observe aggregate descriptive statistics and visualize the data to find insights on american shoppers. The goal of this project was to analyze and understand the seasonality of shoppers, which demographics purchase the most and which outreach strategies we can utilize to maximize purchases.
 
 ## Observations 
